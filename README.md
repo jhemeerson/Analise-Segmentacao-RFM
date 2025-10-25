@@ -16,6 +16,10 @@ Como essa informação, os gerentes resolveram fazer ações distintas para grup
   <img src="https://github.com/user-attachments/assets/b2cead9d-e89a-46a8-9338-799cfebc8be7" />
   </div>
 
+  <br>
+
+  *O **G4 Educação** usa apenas 2 dos 3 critérios: Recência e Frequência.*
+
   ---
 
   ## Analise Descritiva:
